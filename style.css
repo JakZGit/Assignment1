@@ -1,0 +1,132 @@
+a{
+	text-decoration: none;
+	color: white;
+}
+
+li{
+	list-style: none;
+	display: inline;
+	border-style: solid;
+	color: white;
+}
+
+ul{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+#left{
+	float: left;
+	width: 300px;
+	border-style: solid;
+	border-color: red;
+	background-color: grey;
+	margin:0;
+}
+
+#right{
+	float: left;
+	width: 300px;
+	border-style: solid;
+	border-color: red;
+	background-color: grey;
+	margin :0;
+}
+
+#id{
+	float:left;
+	width: 200px;
+	margin:0;
+	border-style: solid;
+	border-color: red;
+	background-color: grey;
+
+}
+
+p{
+	color: white;
+}
+
+#wrapper{
+	margin: auto;
+	width: 650px;
+}
+#wrapper1{
+	width: 50%;
+	margin: auto;
+}	
+
+#social{
+	display: inline;
+	position: fixed;
+}
+
+div{
+	
+}
+
+
+body{
+	background-color: skyblue;
+	background-image: url(http://www.neontommy.com/sites/default/files/the%20finals_0.jpg?1339782559);
+}
+
+
+h1{
+	color: white;
+}
+
+#g1{
+	background-image: url(https://i.ytimg.com/vi/wjmW7MW3WNE/maxresdefault.jpg);
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-repeat: none;
+}
+
+#g2{
+	background-color: skyblue;
+	background-image: url(http://hustleboss.com/wp-content/uploads/2015/06/11334635_1607367112870889_212986024_n-560x337.jpg);
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-repeat: none;
+}
+
+#g3{
+	background-image: url(http://sportsunbiased.com/wp-content/uploads/2015/05/cavs-warriors-e1433130492687.png);
+	float: left;
+	width: 500px;
+	height: 500px;
+	background-repeat: none;
+}
+
+
+#g4{
+	background-image: url(http://2.bp.blogspot.com/-UHfCccFMwV8/VWgJl8w3UbI/AAAAAAAAB9U/B4bPzUs9T8c/s1600/warriors-vs-cavaliers-2015-nba-finals.jpg);
+	float:left;
+	width: 500px;
+	height: 500px;
+
+	background-repeat: none;
+}
+
+#center{
+	align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
